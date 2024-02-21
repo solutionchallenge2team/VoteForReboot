@@ -5,8 +5,14 @@ ReadMe
 
 ## Project Team Members
 
-![Team Member](https://github.com/RememberMe-2024-SolutionChallenge/RememVR-md/assets/123253883/373f059f-7daf-4881-9f79-fc601d575654)
+FRONT-END Developers: Kim Taekwan, Baek Jiu
+
+BACK-END Developers: Kim Bomin, Im Sebin
+
+
+
 We are Team **Vote for Reboot** from _Google Developer Student Clubs Korea University, Seoul Campus_.
+
 
 
 ## **Project Intro**
